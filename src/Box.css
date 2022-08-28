@@ -1,0 +1,20 @@
+.Box {
+  border: 5px solid violet;
+  margin: 10px;
+}
+
+.Box div {
+  outline: 5px solid blueviolet;
+  margin: 25px;
+  padding: 5px;
+}
+
+.Box button {
+  background-color: darkviolet;
+  color: ghostwhite;
+  border: 2.5px solid ghostwhite;
+  margin: 10px;
+  padding: 10px;
+  font-size: 1em;
+  font-weight: bolder;
+}
